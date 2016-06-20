@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\lars erik s paulsen\documents\visual studio 2015\projects\toggler 2\toggler 2\</FILEPATH>
+      <FILENAME>toggler 2.cpp</FILENAME>
+      <LINE>130</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6244</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'Velocity' hides previous declaration at line '29' of 'c:\users\lars erik s paulsen\documents\visual studio 2015\projects\toggler 2\toggler 2\toggler 2.cpp'.</DESCRIPTION>
+    <FUNCTION>SetVelocityAndAceleration</FUNCTION>
+    <DECORATED>?SetVelocityAndAceleration@@YAXXZ</DECORATED>
+    <FUNCLINE>128</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\lars erik s paulsen\documents\visual studio 2015\projects\toggler 2\toggler 2\</FILEPATH>
+        <FILENAME>toggler 2.cpp</FILENAME>
+        <LINE>29</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\lars erik s paulsen\documents\visual studio 2015\projects\toggler 2\toggler 2\</FILEPATH>
+      <FILENAME>toggler 2.cpp</FILENAME>
+      <LINE>130</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>6244</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'Acceleration' hides previous declaration at line '28' of 'c:\users\lars erik s paulsen\documents\visual studio 2015\projects\toggler 2\toggler 2\toggler 2.cpp'.</DESCRIPTION>
+    <FUNCTION>SetVelocityAndAceleration</FUNCTION>
+    <DECORATED>?SetVelocityAndAceleration@@YAXXZ</DECORATED>
+    <FUNCLINE>128</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\lars erik s paulsen\documents\visual studio 2015\projects\toggler 2\toggler 2\</FILEPATH>
+        <FILENAME>toggler 2.cpp</FILENAME>
+        <LINE>28</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\lars erik s paulsen\documents\visual studio 2015\projects\toggler 2\toggler 2\</FILEPATH>
+      <FILENAME>toggler 2.cpp</FILENAME>
+      <LINE>384</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'pattern' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '330' of 'c:\users\lars erik s paulsen\documents\visual studio 2015\projects\toggler 2\toggler 2\toggler 2.cpp'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>266</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\lars erik s paulsen\documents\visual studio 2015\projects\toggler 2\toggler 2\</FILEPATH>
+        <FILENAME>toggler 2.cpp</FILENAME>
+        <LINE>330</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT></DEFECTS>
